@@ -1,0 +1,56 @@
+/* Estilos generales */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "DM Mono", monospace;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 14px;
+	background-color: #121212;
+	color: #ffffff;
+}
+
+h1,
+h2,
+h3 {
+	font-family: "DM Sans", sans-serif;
+	font-optical-sizing: auto;
+	font-style: normal;
+}
+
+/* Estilos Navbar */
+
+.navbar-container {
+	background-color: #121212;
+	box-shadow: 0 5px 8px 0px rgba(0, 0, 0, 0.2);
+	position: sticky;
+	z-index: 3;
+	top: 0;
+	height: auto;
+}
+
+.logo-zoku {
+	height: 80px;
+}
+
+.boton-carrito {
+	font-size: 16px;
+}
+
+/* Estilo footer */
+
+footer {
+	padding-top: 1000px;
+	text-align: center;
+	font-size: 12px;
+}
+
+.logo-react {
+	height: 18px;
+	padding-left: 5px;
+}
