@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "title": "Bleach 01",
+    "category": "Mangas",
+    "price": 5000,
+    "description": "Lo que Ichigo Kurosaki menos hubiera deseado tener, era la habilidad de poder ver fantasmas. Él pensaba que no le iba a servir para nada útil hasta el día que se vio envuelto en una situación de peligro cuando su familia sufrió el ataque de un Hollow.",
+    "pictureUrl": "https://lh3.googleusercontent.com/pw/AP1GczNBMsRdrlKwQ8MzWuKoImOAHUF-TWvfUHwlxr1BeChQhKvl0_uv7ani5tAaApUpLRVDTApE3lz1rea6C2h5RlCdBiRNeJr8P61YiEEuoLbNUjVkbQ=w2400"
+  },
+  {
+    "id": 2,
+    "title": "Chainsawman 02",
+    "category": "Mangas",
+    "price": 4500,
+    "description": "Denji es un adolescente que vive con un demonio motosierra llamado Pochita. Para pagar la deuda que le dejó su padre tras su muerte, ha tenido que ganarse el pan como puede matando demonios y vendiendo sus cadáverse a la mafia, aunque su vida siempre ha sido miserable.",
+    "pictureUrl": "https://lh3.googleusercontent.com/pw/AP1GczOXPDlJ29h0cOL51Ue0ZEBz4kWy3RYhwaqPeUu9IGAj98YIzpzJzQvPXv2EugbZGB_SREs6kaBMq9ggiLoueqBXzVqyT60Jb1UaUgHKGo3aLzGHUA=w2400"
+  },
+  {
+    "id": 3,
+    "title": "Evangelion 02",
+    "category": "Mangas",
+    "price": 5500,
+    "description": "Cuando unos monstruos violentos descienden a la Tierra para destruir a la humanidad, Shinji, un joven de 14 años, se une a un pequeño escuadrón de pilotos bajo el mando de su padre, utilizando máquinas gigantes que parecen tener sus propias mentes.",
+    "pictureUrl": "https://lh3.googleusercontent.com/pw/AP1GczOYh70qwSkx_riJNxFNh4wbZETVxPB1ZJ-cLLwpGWbikfVSF66t7g9MpOd6DbL7u1_rD4XFck5veiwrQxPH87X4HRURSHx0RoHDms6Ckw41fasIKg=w2400"
+  },
+  {
+    "id": 4,
+    "title": "Ranma 1/2 10",
+    "category": "Mangas",
+    "price": 3000,
+    "description": "Genma y Ranma Saotome son padre e hijo y panda y chica respectivamente, ya que entrenando en cierto lugar de China fueron víctimas de una terrible maldición: cada vez que se mojan con agua fría, se convierten en el último ser que se haya ahogado en las fosas en que cayeron.",
+    "pictureUrl": "https://lh3.googleusercontent.com/pw/AP1GczOs08aqrTp6YrVOZmHOBE1WyaGI0VgUxrwZVm4syr8aU0EbelL1Zhsus1-9QKF0lQj6mwgg0sbtigjWiVyeofZa1GPsyCmCuIhuP34anuos7ksMAw=w2400"
+  },
+  {
+    "id": 5,
+    "title": "Saint Seiya 06",
+    "category": "Mangas",
+    "price": 4500,
+    "description": "Eras atrás, la diosa Atenea tenía a su servicio a unos guerreros llamados Caballeros que canalizaban en su interior el poder del Cosmos. Ahora, un joven llamado Seiya ha entrenado para convertirse en el Caballero de Pegaso y luchará por Atena junto a sus amigos.",
+    "pictureUrl": "https://lh3.googleusercontent.com/pw/AP1GczN4uy-Q85uODq8orzx5k_pAD_eBNfWzhf-Cp-ZBkwxmt40JCN3ZDpTeViRQqB0cA6fluVvqqp-ZX7QAzCu8VfDDIxydWsa9zAilRaYKk2S8ogV5Aw=w2400"
+  },
+  {
+    "id": 6,
+    "title": "Tokyo Revengers 13",
+    "category": "Mangas",
+    "price": 4500,
+    "description": "Takemichi, un chicho que a sus 26 años cree que ya ha arruinado su vida. Viviendo a través de trabajos esporádicos lo suficientemente buenos como para pagar el alquiler, su vida se ve aún peor cuando se entera de la muerte de Hinata, la única novia que ha tenido.",
+    "pictureUrl": "https://lh3.googleusercontent.com/pw/AP1GczP1eFLwq41q5o1LaKpSuKiIxxQmiUapCgaZTgFF1TSTpQJKQ2JsLTw6442jrAITzMkiUlGUmrrF5RMmaARKbKjqv130R5MiMz-ZIQZBeQT_m3BZPw=w2400"
+  },
+  {
+    "id": 7,
+    "title": "Levi Ackerman",
+    "category": "Figuras",
+    "price": 15000,
+    "description": "La figura de Levi Ackerman de Attack on Titan: The Final Season creada por Bandai esta hecha de PVC de alta calidad y con una altura de 16 cm y articulada, captura la esencia dinámica del personaje con detalles meticulosos, siendo esencial para cualquier colección de fanáticos de la increíble serie animada.",
+    "pictureUrl": "https://lh3.googleusercontent.com/pw/AP1GczNo6lhsZnr0-FsaukXr2z842p1YWp9XbSAjnIRO7WnpbHWL38L-vVb9O2taTU59uSMAlIr9KfuNKwpm2OQ0nQdIyfnJTGX0J_STk9i1ReSljyDyjA=w2400"
+  },
+  {
+    "id": 8,
+    "title": "Ichigo Kurosaki",
+    "category": "Figuras",
+    "price": 20000,
+    "description": "Ichigo Kurosaki de Bleach, presentado por Megahouse, es una figura de resina de 25 cm que muestra al poderoso protagonista del anime y shinigami en una postura de combate dinámica y desafiante, con su zanpakuto desenfundada y una expresión determinada, ideal para los seguidores de la serie.",
+    "pictureUrl": "https://lh3.googleusercontent.com/pw/AP1GczM7qh3coyYzNCFJPocy6uh9-xEPP0VCUQaNv86mH1s8ZQIYJYl4FHcpnxWBLpu5GCf4RB4sbWW8Ys0hCaTtrkYWzVY8zyzDIGHx-eIdrVAGRMoC0g=w2400"
+  },
+  {
+    "id": 9,
+    "title": "Edward Wong & Ein",
+    "category": "Figuras",
+    "price": 35000,
+    "description": "Edward Wong y Ein de Cowboy Bebop, de la marca Union Creative, es una figura de PVC de 25 cm sin articulación, que captura los icónicos personajes esta icónica serie animada, con sus característicos artefactos tecnológicos y actitud relajada, perfecta para los admiradores de este clásico del anime.",
+    "pictureUrl": "https://lh3.googleusercontent.com/pw/AP1GczP_rCjZPzGZ4niYtzc6wMdyZH8Cp7KyHjYpBa_jSUWynllO1lnHsiYOg6oD_iDAto07OPkoFS03zWDEBkWJl1Z3NLa0cUzXHIZU2cFyW0BgPxtzFw=w2400"
+  },
+  {
+    "id": 10,
+    "title": "Trunks Super Saiyan",
+    "category": "Figuras",
+    "price": 25000,
+    "description": "Trunks Super Saiyan de Dragon Ball Z, producido por Bandai, es una figura de acción de 20 cm que muestra al guerrero Saiyan en su forma Super Saiyan, con múltiples opciones de manos y rostros intercambiables, siendo un artículo imprescindible para los fans de la serie.",
+    "pictureUrl": "https://lh3.googleusercontent.com/pw/AP1GczPdfr2-HmFsbCe14Hfz7JOePKULTzTh1rXhr1J5vI47wcnJp_RTikoCMx_WFR997oc7YpDa2sNojLDvtrcCjyoKq2PvkY2ZoqJIlrWtK0a27_xmmg=w2400"
+  },
+  {
+    "id": 11,
+    "title": "Eva 01",
+    "category": "Figuras",
+    "price": 45000,
+    "description": "Eva 01 de Evangelion, fabricado por Good Smile Company, es una figura de PVC de 30 cm con un diseño moderno y detalles realistas, que muestra al icónico EVA pilotado por Shinji Ikari en una pose de combate épica, perfecta para los coleccionistas de mechas.",
+    "pictureUrl": "https://lh3.googleusercontent.com/pw/AP1GczNXfjhI1AtXhKzl-Zsin-pETKn7w6lEenrHjHzd_1apoxkhb30AUQiKEyhfr9oYCSlLOD7nbT193ZV7EcOJ4MPNxcRmSimotl7kA_7cr50IuS18Jw=w2400"
+  },
+  {
+    "id": 12,
+    "title": "Caballero de Pegaso",
+    "category": "Figuras",
+    "price": 20000,
+    "description": "Pegaso de Saint Seiya, de la marca Bandai Spirits, es una figura de acción de 15 cm que representa al legendario caballero de bronce, con múltiples puntos de articulación para recrear escenas de combate emocionantes, imprescindible para los seguidores de la serie.",
+    "pictureUrl": "https://lh3.googleusercontent.com/pw/AP1GczMU47g6qN3BD0HBaUjSexi1UXK_Cfpls5mDj3TpzRElzeRVG4lzkw87NfQzMq0K57ZBxCnJ6Jj3L3Srk1cmpJG6Janks9d0xMlkpVLhp3i54XJ2FQ=w2400"
+  },
+  {
+    "id": 13,
+    "title": "Goku y Freezer",
+    "category": "Coleccionables",
+    "price": 2000,
+    "description": "Goku y Freezer, de la serie Dragon Ball Z, es una pieza rara y codiciada que captura el épico enfrentamiento entre los dos icónicos personajes. Con ilustraciones vibrantes, esta carta de edición limitada es un tesoro para los fans de la franquicia.",
+    "pictureUrl": "https://lh3.googleusercontent.com/pw/AP1GczNDc35gDipOFoiVnKyMvu_87HHFwnEXVIYWEE7BLSchah_lKZIQ6OYW2DBCtmeJepAxgIgCszg-AMXisUew5DPEKBxvhKea3pygfmgalYYvjPjQRA=w2400"
+  },
+  {
+    "id": 14,
+    "title": "Charizard",
+    "category": "Coleccionables",
+    "price": 4500,
+    "description": "Charizard, de la serie Pokémon, es una carta holográfica de alto valor que presenta al poderoso Pokémon de fuego en toda su majestuosidad. Con una ilustración impresionante y efectos holográficos, esta carta es una pieza esencial en cualquier colección de Pokémon.",
+    "pictureUrl": "https://lh3.googleusercontent.com/pw/AP1GczM65CpRNRsvx_liHdPzW0BFVhKQv6WniTL4qSm0E0ftEtgH7mJSjFJjf-ciM38DidLj1Jwp0h815OIU5luZ_BBlYsI8nsuV5vwaOQIRbxUgwl8Org=w2400"
+  },
+  {
+    "id": 15,
+    "title": "Mew",
+    "category": "Coleccionables",
+    "price": 4500,
+    "description": "Mew, una carta legendaria de la serie Pokémon, es una joya entre los coleccionistas. Con una ilustración encantadora que muestra al mítico Pokémon rosa, esta carta es una representación perfecta de la rareza de Mew, y es altamente valorada en el mundo de las cartas.",
+    "pictureUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXlQtemXp4ufzKazt2CVYOnXdVNd4Ba_3kFdN0biP1-xHYP3sHF_GbYu4M3CyR11SH3mOD1kCxz2FDEPvFo15qGmzsr1SUk3vgUSftbeR_aQMaZw=w2400"
+  },
+  {
+    "id": 16,
+    "title": "Omanyte",
+    "category": "Coleccionables",
+    "price": 1000,
+    "description": "Omanyte, de la serie Pokémon, es una carta que presenta al Pokémon fósil en todo su esplendor y super kawai. Con detalles en colores pasteles que resaltan su belleza poco convencional, esta carta es una adición imprescindible para cualquier colección de los fanáticos de esta increíble serie.",
+    "pictureUrl": "https://lh3.googleusercontent.com/pw/AP1GczN_hdTpozH2Nz99REMwP3C8RPGLnpUjodyEajgDESFKE4rDX3CqIrCD-w_PW72dwJL2P-amV0P0UyIdP3V5XosF5MLpbIk251dKgjWdcnJL5zlSbA=w2400"
+  },
+  {
+    "id": 17,
+    "title": "Pikachu y Ash",
+    "category": "Coleccionables",
+    "price": 1500,
+    "description": "Pikachu y Ash, de la serie Pokémon, es una representación conmovedora de la relación entre el icónico entrenador y su fiel compañero Pokémon. Con una ilustración que captura la conexión especial entre los dos, esta carta es apreciada por su valor como pieza de colección.",
+    "pictureUrl": "https://lh3.googleusercontent.com/pw/AP1GczPOtL8X31Jvpp2y0Ep3Q8TExj7SeloO5Ya4N_XkzIdUEQ65F321vko5NvyLxPSzv8PuTEP_JcgI3wwlHRq3keAFRiWS5lO5YY0qa-aCAmEroV2hFg=w2400"
+  },
+  {
+    "id": 18,
+    "title": "Raichu",
+    "category": "Coleccionables",
+    "price": 1000,
+    "description": "Raichu, de la serie Pokémon, es una carta de rareza común pero muy requerida por los coleccionistas de dicha serie. Presentando una ilustración detallada del Pokémon eléctrico en una pose de combate, es una adición muy valiosa y emocionante para cualquier colección de cartas Pokémon.",
+    "pictureUrl": "https://lh3.googleusercontent.com/pw/AP1GczPoRIhEZCI2RykTp5mAHRR-7VDyjJJPi3SfiEXXxusTLpHLUnuty51VOzMlA4uLKrtjhIeoebowpsMelv-mB-jgekda5n6ioSLqyOlbPYnWhyPw7g=w2400"
+  }
+]
