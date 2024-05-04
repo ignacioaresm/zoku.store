@@ -13,6 +13,9 @@ body {
   font-size: 14px;
   background-color: #121212;
   color: #ffffff;
+  position: relative;
+  padding-bottom: 5em;
+  min-height: 100vh;
 }
 
 h1,
@@ -91,8 +94,9 @@ h2 {
 footer {
   text-align: center;
   font-size: 12px;
-  margin: 50px;
-  margin-bottom: 10px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 
 .logo-react {
@@ -122,6 +126,7 @@ footer {
   font-family: "DM Sans", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
+  font-size: 22px;
 }
 
 .descripcion-estilo {
@@ -135,7 +140,7 @@ footer {
   margin-top: 20px;
   padding-top: 10px;
   padding-bottom: 10px;
-  border-radius: 3px;
+  border-radius: 2px;
 }
 
 .boton-estilo:hover {
@@ -146,7 +151,7 @@ footer {
   font-family: "DM Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: 600;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .categoria-estilo {
@@ -159,11 +164,10 @@ footer {
 .loading-estilo {
   text-align: center;
   margin-top: 100px;
-  margin-bottom: 900px;
 }
 
 .detail-estilo {
-  max-width: 40rem;
+  max-width: 35rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -171,8 +175,7 @@ footer {
   text-align: center;
   border: 1px solid white;
   border-radius: 5px;
-  padding: 30px;
-  margin-bottom: 150px;
+  padding: 20px;
 }
 
 .detail-img-estilo {
@@ -181,7 +184,8 @@ footer {
   justify-content: center;
   align-content: center;
   text-align: center;
-  padding-top: 10px;
+  padding-top: 30px;
+  width: 90%;
 }
 
 .detail-title-estilo {
@@ -199,4 +203,162 @@ footer {
   font-optical-sizing: auto;
   font-weight: 600;
   font-size: 20px;
+}
+
+.stock-estilo {
+  font-size: 12px;
+  color: rgb(179, 179, 179);
+  padding-top: 10px;
+}
+
+/* Estilo Carrito */
+
+.estilo-titulo-carrito {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: center;
+  text-align: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.container-carrito {
+  max-width: 40rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 50px;
+  margin-top: 50px;
+}
+
+.estilo-lista-carrito {
+  list-style-type: none;
+}
+
+.estilo-total {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.estilo-vaciar {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 2px;
+  border: 1px solid white;
+  width: 30%;
+  color: white;
+  background-color: transparent;
+}
+
+.estilo-vaciar:hover {
+  color: black;
+  background-color: white;
+}
+
+.estilo-quitar {
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+  margin: 5px;
+  padding: 4px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 2px;
+}
+
+.estilo-comprar {
+  margin-top: 20px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 2px;
+  border: none;
+  width: 100%;
+  color: black;
+}
+
+.estilo-comprar:hover {
+  background-color: rgb(7, 148, 146);
+  color: white;
+}
+
+/* Estilo formulario */
+
+.estilo-formulario {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+hr {
+  border-color: white;
+  border-style: dotted;
+  padding-top: 20px;
+}
+
+.estilo-imput {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 2px;
+  border: 1px solid white;
+  width: 100%;
+  color: white;
+  background-color: transparent;
+}
+
+/* Estilo contadores */
+
+.estilo-contadores {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.estilo-mas-menos {
+  margin-bottom: 10px;
+}
+
+.estilo-contador-imput {
+  text-align: center;
+  border: none;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 2px;
+}
+
+.botones-mas-menos {
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+  margin: 5px;
+  padding: 4px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 2px;
+}
+
+.estilo-agregar {
+  margin-top: 20px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 2px;
+  border: none;
+  width: 100%;
+  color: black;
+}
+
+.estilo-agregar:hover {
+  background-color: rgb(7, 148, 146);
+  color: white;
 }

@@ -6,14 +6,14 @@ import "../App.css";
 
 export const Item = ({ product }) => (
   <Card className="cards-estilo" style={{ width: "20rem" }}>
-    <Card.Img variant="top" src={product.pictureUrl} />
+    <Card.Img variant="top" src={product.imageId} />
     <Card.Body>
       <Card.Title className="titulo-estilo">{product.title}</Card.Title>
-      <Card.Text className="categoria-estilo">{product.category}</Card.Text>
+      <Card.Text className="categoria-estilo">{product.categoryId}</Card.Text>
       <Card.Text className="precio-estilo">${product.price}</Card.Text>
-      <Card.Text className="descripcion-estilo">
+      {/* <Card.Text className="descripcion-estilo">
         {product.description}
-      </Card.Text>
+      </Card.Text> */}
       <Link to={`/item/${product.id}`}>
         <Button className="boton-estilo container" variant="outline-dark">
           Ver Detalle
