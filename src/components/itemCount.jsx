@@ -25,7 +25,7 @@ export const ItemCount = ({ onAdd, stock }) => {
         </button>
         <input
           className="estilo-contador-imput"
-          type="number"
+          type="number only-read"
           value={quantity}
         />
         <button className="botones-mas-menos" onClick={handleIncrease}>
@@ -33,7 +33,7 @@ export const ItemCount = ({ onAdd, stock }) => {
         </button>
       </div>
       <button className="estilo-agregar" type="button" onClick={handleAdd}>
-        Agregar al Carrito ♥
+        Agregar al Carrito
       </button>
     </div>
   );

@@ -15,7 +15,7 @@ const initialValues = {
 export const Cart = () => {
   const [values, setValues] = useState(initialValues);
   const [showModal, setShowModal] = useState(false);
-  const [orderId, setOrderId] = useState(null); // Nuevo estado para almacenar el ID de la orden
+  const [orderId, setOrderId] = useState(null);
   const { clear, items, removeItem } = useContext(CartContext);
 
   const total = () =>
@@ -43,7 +43,7 @@ export const Cart = () => {
     addDoc(orderCollection, order)
       .then(({ id }) => {
         if (id) {
-          setOrderId(id); // Almacenar el ID de la orden
+          setOrderId(id);
           setShowModal(true);
         }
       })
