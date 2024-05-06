@@ -45,3 +45,5 @@ npm run dev
 ```
 
 Esto iniciará el servidor de desarrollo. Una vez que el servidor esté en funcionamiento, puedes abrirlo tu navegador web para ver la aplicación Zoku Store en acción.
+
+## ¡Muchas gracias!
