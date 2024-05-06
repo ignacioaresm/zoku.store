@@ -362,3 +362,30 @@ hr {
   background-color: rgb(7, 148, 146);
   color: white;
 }
+
+/* Estilo modal */
+
+.estilo-modal1 {
+  color: black;
+  text-align: center;
+}
+.estilo-modal2 {
+  color: black;
+}
+
+.boton-modal {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 2px;
+  border: 1px solid black;
+  width: 30%;
+  color: black;
+  background-color: transparent;
+}
+
+.boton-modal:hover {
+  color: white;
+  background-color: black;
+}

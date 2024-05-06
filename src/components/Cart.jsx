@@ -1,5 +1,6 @@
 import Container from "react-bootstrap/Container";
 import { useContext, useState } from "react";
+import Modal from "react-bootstrap/Modal";
 
 import { CartContext } from "../contexts/CartContext";
 
@@ -13,6 +14,8 @@ const initialValues = {
 
 export const Cart = () => {
   const [values, setValues] = useState(initialValues);
+  const [showModal, setShowModal] = useState(false);
+  const [orderId, setOrderId] = useState(null); // Nuevo estado para almacenar el ID de la orden
   const { clear, items, removeItem } = useContext(CartContext);
 
   const total = () =>
@@ -40,7 +43,8 @@ export const Cart = () => {
     addDoc(orderCollection, order)
       .then(({ id }) => {
         if (id) {
-          alert("¡Su orden: " + id + "ha sido completada! ✌🏻");
+          setOrderId(id); // Almacenar el ID de la orden
+          setShowModal(true);
         }
       })
       .finally(() => {
@@ -49,7 +53,7 @@ export const Cart = () => {
       });
   };
 
-  const handleClear = (id) => clear();
+  const handleClear = () => clear();
   const handleRemove = (id) => removeItem(id);
 
   return (
@@ -118,6 +122,22 @@ export const Cart = () => {
           </button>
         </form>
       )}
+
+      <Modal show={showModal} onHide={() => setShowModal(false)}>
+        <Modal.Header closeButton>
+          <Modal.Title className="estilo-modal1">
+            ¡Orden Completada! 🎉
+          </Modal.Title>
+        </Modal.Header>
+        <Modal.Body className="estilo-modal2">
+          ¡Su orden: {orderId} ha sido completada!
+        </Modal.Body>
+        <Modal.Footer>
+          <button className="boton-modal" onClick={() => setShowModal(false)}>
+            Cerrar
+          </button>
+        </Modal.Footer>
+      </Modal>
     </Container>
   );
 };
