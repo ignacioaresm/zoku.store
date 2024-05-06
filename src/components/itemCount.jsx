@@ -33,7 +33,7 @@ export const ItemCount = ({ onAdd, stock }) => {
         </button>
       </div>
       <button className="estilo-agregar" type="button" onClick={handleAdd}>
-        Agregar al Carrito
+        + Agregar al Carrito
       </button>
     </div>
   );

@@ -138,8 +138,8 @@ footer {
   text-align: center;
   font-size: 13px;
   margin-top: 20px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 12px;
+  padding-bottom: 12px;
   border-radius: 2px;
 }
 
@@ -176,6 +176,7 @@ footer {
   border: 1px solid white;
   border-radius: 5px;
   padding: 20px;
+  background-color: rgba(255, 255, 255, 0.024);
 }
 
 .detail-img-estilo {
@@ -240,8 +241,9 @@ footer {
 }
 
 .estilo-total {
-  font-size: 16px;
+  font-size: 18px;
   margin-bottom: 10px;
+  text-align: center;
 }
 
 .estilo-vaciar {
@@ -274,8 +276,8 @@ footer {
 
 .estilo-comprar {
   margin-top: 20px;
-  padding-top: 12px;
-  padding-bottom: 12px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   padding-left: 15px;
   padding-right: 15px;
   border-radius: 2px;
@@ -285,7 +287,7 @@ footer {
 }
 
 .estilo-comprar:hover {
-  background-color: rgb(7, 148, 146);
+  background-color: rgb(6, 133, 131);
   color: white;
 }
 
@@ -315,6 +317,10 @@ hr {
 }
 
 /* Estilo contadores */
+
+.container-carrito {
+  background-color: rgba(255, 255, 255, 0.024);
+}
 
 .estilo-contadores {
   margin-top: 20px;
@@ -359,7 +365,7 @@ hr {
 }
 
 .estilo-agregar:hover {
-  background-color: rgb(7, 148, 146);
+  background-color: rgb(6, 133, 131);
   color: white;
 }
 
@@ -367,7 +373,6 @@ hr {
 
 .estilo-modal1 {
   color: black;
-  text-align: center;
 }
 .estilo-modal2 {
   color: black;

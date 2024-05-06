@@ -84,7 +84,7 @@ export const Cart = () => {
         );
       })}
 
-      <div className="estilo-total">💸 Total a Pagar ${total()}</div>
+      <div className="estilo-total">💸 Total a Pagar: ${total()}</div>
 
       {items?.length > 0 && (
         <form className="estilo-formulario">
@@ -126,11 +126,11 @@ export const Cart = () => {
       <Modal show={showModal} onHide={() => setShowModal(false)}>
         <Modal.Header closeButton>
           <Modal.Title className="estilo-modal1">
-            ¡Orden Completada! 🎉
+            Gracias por elegirnos 🎉
           </Modal.Title>
         </Modal.Header>
         <Modal.Body className="estilo-modal2">
-          ¡Su orden: {orderId} ha sido completada!
+          ¡Tu orden {orderId} ha sido completada!
         </Modal.Body>
         <Modal.Footer>
           <button className="boton-modal" onClick={() => setShowModal(false)}>
